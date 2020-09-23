@@ -1,0 +1,65 @@
+'Object Offset: 5121
+Begin VB.Form frmLift
+       Caption = "Lift"  ' GuiOpcode: 1 Offset Dec: 5138
+       WindowState = 2  ' GuiOpcode: 10 Offset Dec: 5146
+       ScaleMode = 1  ' GuiOpcode: 25 Offset Dec: 5148
+       WhatsThisButton = -1  ' GuiOpcode: 66 Offset Dec: 5151
+       LinkTopic = "Form1"  ' GuiOpcode: 36 Offset Dec: 5158
+       ClientLeft = 60
+       ClientTop = 450
+       ClientWidth = 6720
+       ClientHeight = 7785
+       StartUpPosition = 2  ' GuiOpcode: 70 Offset Dec: 5184
+       'Object Offset: 5187
+       Begin VB.Frame fraLift
+              Left = 960
+              Top = 7080
+              Height = 975
+              Width = 615
+              TabIndex = 10  ' GuiOpcode: 18 Offset Dec: 5213
+              BorderStyle = 0  ' GuiOpcode: 34 Offset Dec: 5216
+              'Object Offset: 5219
+              Begin VB.Shape Ajto1
+                     Left = 0
+                     Top = 0
+                     Height = 975
+                     Width = 255
+                     FillColor = 8421504  ' GuiOpcode: 15 Offset Dec: 5243
+                     FillStyle = 0  ' GuiOpcode: 17 Offset Dec: 5248
+              End
+              'Object Offset: 5251
+              Begin VB.Shape Ajto2
+                     Left = 0
+                     Top = 0
+                     Height = 975
+                     Width = 255
+                     FillColor = 8421504  ' GuiOpcode: 15 Offset Dec: 5275
+                     FillStyle = 0  ' GuiOpcode: 17 Offset Dec: 5280
+              End
+              'Object Offset: 5283
+              Begin VB.Shape Shape6
+                     Left = 0
+                     Top = 0
+                     Height = 135
+                     Width = 615
+                     FillColor = 14737632  ' GuiOpcode: 15 Offset Dec: 5308
+                     FillStyle = 0  ' GuiOpcode: 17 Offset Dec: 5313
+              End
+              'Object Offset: 5316
+              Begin VB.Shape Shape5
+                     Left = 0
+                     Top = 0
+                     Height = 975
+                     Width = 255
+                     FillColor = 14737632  ' GuiOpcode: 15 Offset Dec: 5341
+                     FillStyle = 0  ' GuiOpcode: 17 Offset Dec: 5346
+              End
+              'Object Offset: 5349
+              Begin VB.Shape Shape2
+                     BackColor = 49152  ' GuiOpcode: 2 Offset Dec: 5365
+                     Left = 0
+                     Top = 0
+                     Height = 975
+                     Width = 615
+                     BackStyle = -255  ' GuiOpcode: 16 Offset Dec: 5379
+              End
